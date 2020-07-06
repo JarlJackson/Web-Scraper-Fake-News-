@@ -1,0 +1,644 @@
+Claim:
+Former U.S. Vice President Joe Biden's 2020 presidential campaign forced the staff of an Iowa public library to remove an American flag.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/biden-campaign-remove-flag/
+
+Claim:
+HealthCare.gov, otherwise known as the "Obamacare" website, cost $5 billion.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/obamacare-website-5-billion/
+
+Claim:
+U.S. Rep. Adam Schiff's daughter is dating the alleged whistleblower at the center of the impeachment hearings against President Donald Trump.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/whistleblower-dating-schiff/
+
+Claim:
+Vanessa Bryant died by suicide in February 2020. 
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/vanessa-bryant-suicide/
+
+Claim:
+U.S. President Donald Trump tweeted about being turned away by Arthur Bryant's barbecue restaurant in Kansas City.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/trump-turned-away-restaurant/
+
+Claim:
+"The Simpsons" TV show predicted the 2020 new coronavirus outbreak in a 1993 episode. 
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/simpsons-predict-coronavirus/
+
+Claim:
+Walmart is offering a coupon for $1,000 in free merchandise to people via text message.
+Rating:
+Scam
+Link:
+https://www.snopes.com/fact-check/walmart-text-coupon/
+
+Claim:
+The "Big Three" networks of ABC, CBS, and NBC "blacked out" coverage of Pam Bondi's legal defense of U.S. President Donald Trump during his impeachment trial.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/pam-bondi-impeachment/
+
+Claim:
+A viral social media post in January 2020 represented an authentic, accurate "health bulletin" about the new coronavirus outbreak from an official public health authority.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/nwllab-moh-bulletin-coronavirus/
+
+Claim:
+Health experts predicted the new coronavirus could kill 65 million people.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/coronavirus-65-million-people/
+
+Claim:
+Videos show people collapsing on the street due to coronavirus. 
+Rating:
+Unproven
+Link:
+https://www.snopes.com/fact-check/people-collapsing-coronavirus/
+
+Claim:
+The fictional "Umbrella Corporation" from the game "Resident Evil" shares a logo with a biotech lab in Wuhan, Hubei Province in China, where a new coronavirus is believed to have originated.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/resident-evil-umbrella-coronavirus/
+
+Claim:
+A coronavirus-related health advisory graphic issued by the World Health Organization warned against unprotected sex with farm animals.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/coronavirus-bulletin-farm-animals/
+
+Claim:
+Virginia legislators are trying to make criticizing state leaders a criminal offense.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/virginia-illegal-criticize-leaders/
+
+Claim:
+A photograph shows a "horse power control device" (HPCD), which is installed in automobiles to make them use more fuel than necessary.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/hpcd-car-fuel/
+
+Claim:
+Al Roker is leaving the "Today" show.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/al-roker-today-show/
+
+Claim:
+A video documents the volcanic eruption on New Zealand's White Island in December 2019. 
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/white-island-volcano-video/
+
+Claim:
+Chick-fil-A is sending coupons via Facebook Messenger that offer free restaurant meals for one year.
+Rating:
+Scam
+Link:
+https://www.snopes.com/fact-check/chick-fil-a-coupon-scam/
+
+Claim:
+FedEx customers can receive free "expensive" products from Amazon.com via a text message notification.
+Rating:
+Scam
+Link:
+https://www.snopes.com/fact-check/fedex-text-message-scam/
+
+Claim:
+Republican senators were overheard saying they were "up shit's creek" in regards to impeachment proceedings.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/republican-senators-up-shits-creek/
+
+Claim:
+Prince Charles refused to shake hands with U.S. Vice President Mike Pence, thereby "snubbing" or expressing a negative comportment towards Pence, at an event in January 2020.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/prince-charles-snub-mike-pence/
+
+Claim:
+U.S. President Donald Trump "returned prayer" to public schools.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/trump-prayer-schools/
+
+Claim:
+A photograph shows an official Extinction Rebellion sticker reading, "Driving a car? You're a Nazi."
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/extinction-rebellion-nazi-stickers/
+
+Claim:
+Author Stephen King placed billboards targeting U.S. Sen. Susan Collins outside his home in Bangor, Maine.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/collins-billboards-stephen-king/
+
+Claim:
+Donald Trump has paid up to eight sexual partners to obtain abortions and sign nondisclosure agreements.
+Rating:
+Unproven
+Link:
+https://www.snopes.com/fact-check/trump-pay-8-women/
+
+Claim:
+Joe Biden said he eats the sticks in corn dogs.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/joe-biden-corn-dog/
+
+Claim:
+A photograph shows Prince Harry and Megan Markle in front of their new RV camper. 
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/harry-markle-rv-camper/
+
+Claim:
+Busloads of "antifa" infiltrators plotted to commit acts of violence at the Richmond, Virginia, pro-gun rally on MLK Day 2020.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/virginia-gun-rally-staged/
+
+Claim:
+Martin Luther King Jr. said that "capitalism does not permit an even flow of economic resources."
+Rating:
+Unproven
+Link:
+https://www.snopes.com/fact-check/mlk-capitalism-flow/
+
+Claim:
+Whitefield Academy in Kentucky expelled a 15-year-old student for wearing a rainbow-patterned sweater and having a rainbow-designed birthday cake in a Facebook photograph.
+Rating:
+Unproven
+Link:
+https://www.snopes.com/fact-check/expelled-school-rainbow/
+
+Claim:
+U.S. House Speaker Nancy Pelosi used $15,000 worth of pens to sign the articles of impeachment against President Donald Trump. 
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/impeachment-pens-15k-dollars/
+
+Claim:
+Poland has refused to allow mosques to be constructed in that country until churches can be built in Saudi Arabia.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/poland-mosque-construction/
+
+Claim:
+A video documents a rare "globular bolt," or "sphere lightning," as it crosses a train track. 
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/video-of-a-globular-bolt-real/
+
+Claim:
+In January 2020, FBI Director Christopher Wray said that the bureau had illegally wiretapped Donald Trump and apologized for it. 
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/fbi-illegal-wiretap-trump-apology/
+
+Claim:
+A young boy was beaten to death by his mother for refusing to wear girl's clothes. 
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/boy-beaten-to-death-by-mom/
+
+Claim:
+Iranian Maj. Gen. Qassem Soleimani was part of the group that stormed the American embassy in Tehran in 1979 and took 52 hostages.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/embassy-meme/
+
+Claim:
+A photograph shows members of the KKK marching with a Trump-Pence presidential campaign sign. 
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/kkk-march-trump-pence-sign/
+
+Claim:
+In January 2020, U.S. Rep. Ilhan Omar advised Iran to attack Trump-branded hotels in the world, thus committing treason. 
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/ilhan-omar-treason-advice-iran/
+
+Claim:
+Fox News changed its accreditation from "news" to "entertainment." 
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/fox-news-entertainment-switch/
+
+Claim:
+A photograph shows an unusual, spaghetti-looking wood pattern beneath the bark of a burned tree. 
+Rating:
+Unproven
+Link:
+https://www.snopes.com/fact-check/burned-tree-spaghetti-pattern/
+
+Claim:
+A video shows a piece of popcorn being cooked by a blowtorch and levitated by a hairdryer before consumption. 
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/popcorn-pop-with-blowtorch/
+
+Claim:
+Qassem Soleimani commanded forces that killed five U.S. service members, including Capt. Brian S. Freeman, in an attack in Karbala, Iraq, in January 2007.
+Rating:
+Unproven
+Link:
+https://www.snopes.com/fact-check/brian-s-freeman-soleimani-iraq/
+
+Claim:
+A photograph shows the words "FUCK IRAN" spelled out on the deck of a U.S. aircraft carrier.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/navy-ship-display-crude-word/
+
+Claim:
+CNN settled a lawsuit with Covington Catholic High School student Nick Sandmann, paying out $275 million.
+Rating:
+Unproven
+Link:
+https://www.snopes.com/fact-check/cnn-covington-settlement/
+
+Claim:
+The U.S. Army is sending text messages informing people they've been selected for the military draft. 
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/us-army-sending-texts-on-draft/
+
+Claim:
+"Nearly 200" Australians were arrested in late 2019 and early 2020 for deliberately setting bushfires.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/australia-arrested-bushfires/
+
+Claim:
+Former Barack Obama administration officials were "caught advising Iran how to defeat U.S. foreign policy."
+Rating:
+Unproven
+Link:
+https://www.snopes.com/fact-check/obama-officials-iran-policy/
+
+Claim:
+A video shows the U.S.-ordered drone strike that killed Iran Gen. Qassem Soleimani. 
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/video-of-drone-strike-soleimani/
+
+Claim:
+Aldi is giving away a year's worth of free groceries to people who share or comment on its Facebook page.  
+Rating:
+Scam
+Link:
+https://www.snopes.com/fact-check/aldi-giving-away-free-groceries/
+
+Claim:
+A photograph shows former U.S. President Barack Obama shaking hands with Iranian President Hassan Rouhani.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/obama-shaking-hands-rouhani/
+
+Claim:
+Pat Robertson said Jews should become Christians because "nobody is shooting up churches."
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/pat-robertson-shooting-up-churches/
+
+Claim:
+Eric Trump tweeted about the airstrike that killed Iran Gen. Qassem Soleimani in early 2020 before the military operation took place. 
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/eric-trump-tweet-iran-strike/
+
+Claim:
+The popular video game Minecraft is shutting down in 2020. 
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/is-minecraft-shutting-down/
+
+Claim:
+A video shows an incoming call on an iPhone igniting a ring of fine steel wool placed around the cell.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/steel-wool-ignite-iphone-call/
+
+Claim:
+Heavy metal singer Ozzy Osbourne was on his "death bed" at the start of 2020. 
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/is-ozzy-osbourne-on-his-deathbed/
+
+Claim:
+Four Impossible Whoppers provide “enough estrogen to grow boobs on a male.” 
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/impossible-whoppers-estrogen/
+
+Claim:
+In late 2019, a pattern of incidents existed whereby motorists were tricked into stopping their cars by a person lying in the road, as part of a prevalent sex-trafficking tactic in Tampa, Florida. 
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/sex-trafficking-lying-road-trick/
+
+Claim:
+The U.S. Supreme Court has ruled against House Speaker Nancy Pelosi on impeachment.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/supreme-court-pelosi/
+
+Claim:
+First lady Melania Trump speaks five languages: Slovenian, English, French, Italian, and German.
+Rating:
+Unproven
+Link:
+https://www.snopes.com/fact-check/melania-trump-multiple-languages/
+
+Claim:
+A December 2019 photograph showing Donald Trump with two markedly different skin tones on his face, was authentic and unedited.
+Rating:
+Unproven
+Link:
+https://www.snopes.com/fact-check/trump-makeup-tan-photo/
+
+Claim:
+Actor Tom Cruise released a video announcing that he was running for U.S. president in 2020. 
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/tom-cruise-president/
+
+Claim:
+Virginia Gov. Ralph Northam said the National Guard would cut power and communications before killing anyone who didn't comply with new gun legislation.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/northam-meme/
+
+Claim:
+"Illegal immigrants" killed 10,150 Americans in 2018.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/immigrant-homicides-us/
+
+Claim:
+A viral image shows a real zebra that has stripes in the shape of a menorah.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/menorah-zebra/
+
+Claim:
+As of December 2019, Christianity Today was backed or funded by George Soros or was a "front organization" for the philanthropist.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/christianity-today-george-soros/
+
+Claim:
+The credits for the movie "Cats" listed dozens of people who died during production. 
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/dozens-died-filming-cats/
+
+Claim:
+President Trump sent a letter to House Speaker Nancy Pelosi that incorporated a crude hidden insult.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/trump-pelosi-letter/
+
+Claim:
+Harvard Law Professor Noah Feldman is the nephew of Jeffrey Epstein.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/noah-feldman-jeffrey-epstein/
+
+Claim:
+A photograph shows Melania Trump with porn star Ron Jeremy. 
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/melania-trump-ron-jeremy-photo/
+
+Claim:
+A photograph shows Elvis and Lisa Marie Presley on Christmas morning. 
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/elvis-and-lisa-marie-christmas/
+
+Claim:
+U.S. House Majority Whip James Clyburn called for President Donald Trump to be hanged.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/clyburn-articles-impeachment/
+
+Claim:
+The controversial plan to build a mosque at the 9/11 Ground Zero site is on again.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/muslim-community-center/
+
+Claim:
+A Starbucks manager threatened to fire employees who wished customers a "Merry Christmas."
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/starbucks-fire-merry-christmas/
+
+Claim:
+Actor Keanu Reeves said, "For me, Trump is the symbol of a successful man and a role model for every young American."
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/keanu-reeves-trump-successful-man/
+
+Claim:
+The $20 bill can be folded to spell the name "Trump."
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/20-dollar-bill-folds-spells-trump/
+
+Claim:
+A missing airliner (Santiago Flight 513) mysteriously landed 35 years later with a cockpit and passenger cabin full of skeletons.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/santiago-flight-513-wormhole/
+
+Claim:
+Ben & Jerry's released a latke-batter-flavored ice cream. 
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/ben-and-jerrys-latke-ice-cream/
+
+Claim:
+Rapper PnB Rock was shot and killed in December 2019 while buying Prada shoes for his daughter.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/pnb-rock-killed-buying-prada/
+
+Claim:
+Insect repellent companies hired a Ugandan man whose flatulence was deadly to mosquitoes. 
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/farts-kill-mosquitoes-uganda/
+
+Claim:
+Mary Anne Trump once called her son Donald Trump an "idiot" who should never go into politics. 
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/trumps-mom-call-him-idiot/
+
+Claim:
+Ukraine donated more money than any other country to the Clinton Foundation.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/ukraine-clinton-foundation/
+
+Claim:
+An American diplomat named Melanie Honcharenko was found dead shortly before testifying in the impeachment inquiry against U.S. President Donald Trump. 
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/trump-impeachment-witness-die/
+
+Claim:
+A Facebook post shows evidence of a sex trafficking scheme involving contaminated roses placed on cars in Kentucky in late 2019. 
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/roses-car-kentucky-sex-trafficking/
+
+Claim:
+The rapper YNW Melly, real name Jamell Demons, was stabbed to death in prison in December 2019.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/ynw-melly-stabbed-death-prison/
+
+Claim:
+White vans are being used by human traffickers as part of a coordinated effort to abduct women.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/white-van-facebook-hoax/
+
+Claim:
+Actor Will Smith and his son Jaden Smith were killed in a car crash in December 2019.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/will-jaden-smith-death-hoax/
+
+Claim:
+Actor Jimmy Stewart suffered what would in 2019 be diagnosed as PTSD due to his experience as a World War II bomber pilot.
+Rating:
+Unproven
+Link:
+https://www.snopes.com/fact-check/jimmy-stewart-ptsd-world-war-ii/
+
+Claim:
+The New York Times stated, as fact, that Hillary Clinton and George Soros had been responsible for paying a woman to make false allegations of sexual assault against Donald Trump.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/soros-clinton-trump-accuser/
+
+Claim:
+A video clip captures U.S. President Donald Trump's hairpiece being sucked off by the intake of a jet engine.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/trump-wig-jet-engine/
+
+Claim:
+A photograph shows a woman with an unusually big bouffant. 
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/woman-with-big-1970s-hairdo/
+
+Claim:
+Michael Vick said, "I killed all of them. I lost f*cking millions all over some f*cking dogs." 
+Rating:
+Unproven
+Link:
+https://www.snopes.com/fact-check/michael-vick-killed-dogs-quote/
+
+Claim:
+Union leader Jeffrey David Cox played a key role in an alleged Clinton-orchestrated conspiracy to kill Jeffrey Epstein in prison.
+Rating:
+False
+Link:
+https://www.snopes.com/fact-check/jeffrey-david-cox-clinton-epstein/
+
